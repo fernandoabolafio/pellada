@@ -1,0 +1,9 @@
+// Place all the styles related to the Sessions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.button_with_image_save {
+    background: url(../public/facebook_login.png) #f2efa8 no-repeat 10px 6px;
+    text-indent:30px;
+    display:block;
+    cursor: pointer;
+}
